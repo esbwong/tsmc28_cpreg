@@ -1,0 +1,8 @@
+For simulations:
+
+1. Run PSS with some transient time to make sure reaching steady state.
+2. Run PSTB for the feedback loop to check gain/phase margins
+
+3. Need to rerun for various output load current conditions....
+
+For LDO need to decide whether to connect output load to the master branch or to the slave branches...
