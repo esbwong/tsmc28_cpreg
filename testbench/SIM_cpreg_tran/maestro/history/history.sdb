@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Jul 31 09:53:03 2025</timestamp>
+			<uuid>{3b0e829e-e8fd-475d-80b1-9237ef698f4a}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/afs/ee.ust.hk/staff/ee/eesbwong/work/tsmc028/cdslibs/edtest00/SIM_cpreg_tran/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/afs/ee.ust.hk/staff/ee/eesbwong/work/tsmc028/cdslibs/edtest00/SIM_cpreg_tran/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/afs/ee.ust.hk/staff/ee/eesbwong/work/tsmc028/Simulation/edtest00/SIM_cpreg_tran/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/edtest00/SIM_cpreg_tran/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+	</history>
+</setupdb>
